@@ -1,0 +1,7 @@
+1.Check Nodejs and npm is installed or not,if not installed please install that.
+2.npm install -g @angular/cli
+3.cd task
+4.npm install
+5.ng serve // to run the application
+
+Application run in http://localhost:4200
